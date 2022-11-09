@@ -3,9 +3,9 @@ I am @SumukhMamathaShivashankar
 
 <!--
 **SumukhMamathaShivashankar/SumukhMamathaShivashankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
 
+Here are some ideas to get you started:
+-->
 - 🔭 I’m currently working on Neural Networks 
 - 🌱 I’m currently learning Flutter
 - 👀 I’m interested in working on data oriented projects
